@@ -1,7 +1,7 @@
 ### Hi everyone 👋, I'm Valentin. The covid period will not have been in vain because it allowed me to retrain as a junior developer, thanks to a relentless training in 6 months, called "The Hacking Project".✨✨✨
 
 ***
-
+NPM React React Router Redux SASS Webpack Heroku CSS3 HTML5 JavaScript Ruby Ubuntu MySQL SQLite Figma Visual Studio Code
 ***
 
 <!--
