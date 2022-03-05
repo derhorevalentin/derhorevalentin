@@ -3,7 +3,7 @@
 ***
 NPM React React Router Redux SASS Webpack Heroku CSS3 HTML5 JavaScript Ruby Ubuntu MySQL SQLite Figma Visual Studio Code
 ***
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!--
 **derhorevalentin/derhorevalentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
