@@ -16,8 +16,8 @@
 
 ### :mailbox_with_no_mail: Join me on :mailbox_with_no_mail:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/valentin-derhore-90b248222/
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white): v.derhore@hotmail.fr
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) --> https://www.linkedin.com/in/valentin-derhore-90b248222/
+<br>![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) --> v.derhore@hotmail.fr
 
 See you soon ! :v:
 
